@@ -1,0 +1,1 @@
+TestCaseDateTime,Username,Email,Password,ExpectedUsernameResult,ActualUsernameResult,ExpectedEmailResult,ActualEmailResult,ExpectedPasswordResult,ActualPasswordResult,ActualFinalErrorMessage,ExpectedFinalErrorMessage

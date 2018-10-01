@@ -1,0 +1,5 @@
+UserName,Email,Password,ExpectedUsernameErrorMessage,ExpectedEmailErrorMessage,ExpectedPasswordErrorMessage,FinalErrorMessage
+rajani,rajani,12,TRUE,TRUE,TRUE,TRUE
+rajanivishal123,visanakul@gmai.com,afbajfb244124214,FALSE,FALSE,FALSE,FALSE
+,,,FALSE,FALSE,FALSE,TRUE
+rajanivasal1234,rajani,abfjabfka66666,FALSE,TRUE,FALSE,TRUE
